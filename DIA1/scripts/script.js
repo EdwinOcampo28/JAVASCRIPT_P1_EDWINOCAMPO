@@ -21,10 +21,10 @@ console.log(resultadoSuma);
 function saludoConNombre(nombre){
     console.log("Hola, soy " + nombre);
 }
-saludoConNombre("Tomas");
+saludoConNombre("Edwin");
 // Funciones sin parametros y sin retorno
 function saludo(){
-    console.log("Hola,soy Tomas y estoy saludando");
+    console.log("Hola,soy Edwin y estoy saludando");
 }
 saludo();
 // Funciones sin parametros y con retorno
@@ -61,4 +61,4 @@ function funcionSPCR(){
 console.log(funcionSPCR());
 // Ingresar datos externos
 nombrePersona = prompt("Ingrese su nombre");
-console.log("Tu nombre es: " + nombrePersona);
+console.log("Tu nombre es: " + nombrePersona);  
