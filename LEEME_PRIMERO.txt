@@ -1,0 +1,19 @@
+JAVASCRIPT P1 — EDWIN OCAMPO
+
+CÓMO ABRIRLO
+1. Extrae todo el ZIP en una carpeta.
+2. Abre index.html con doble clic, o ejecuta ABRIR_PROYECTO.bat en Windows.
+3. Elige el ejercicio desde el menú.
+
+QUÉ CONTIENE
+- Día 1: fundamentos de JavaScript.
+- Práctica adicional de funciones.
+- Ejercicio de gestión académica CampusLands.
+- Día 5 y Día 6: promesas.
+- Tarea: laboratorio de promesas.
+
+NOTAS
+- No abras los archivos .js directamente; entra por el menú HTML.
+- Algunos ejercicios usan ventanas emergentes (prompt/alert).
+- Los resultados de console.log también se muestran en la página de cada ejercicio.
+- Este proyecto es material educativo y no un sistema académico completo.
